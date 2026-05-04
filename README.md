@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mc Allain Casindad
 
-I'm a Software Engineer with over six years of experience in software development and design. My work spans Windows, Web, and Android platforms, always guided by a commitment to clean, readable, and maintainable code.
+I'm a Software Engineer with over eight years of experience in software development and design. My work spans Windows, Web, and Android platforms, always guided by a commitment to clean, readable, and maintainable code.
 
 I also bring a strong foundation in network engineering, having worked in Japan with domain controllers and enterprise-grade network devices. This blend of software and infrastructure expertise allows me to approach technical challenges with a holistic mindset.
 
@@ -24,6 +24,7 @@ Feel free to explore my projects or reach out if you'd like to connect!
 - React
 - Laravel
 - Git
+- Docker
 
 ### 🗄️ Databases
 - MySQL
@@ -40,6 +41,10 @@ Feel free to explore my projects or reach out if you'd like to connect!
 ## 🚀 Projects
 
 ### 2025
+- **Automation Test**
+  *Automated test execution for pre-order steps functionality in an E-Commerce system.*
+  `Python`, `Robot` | *Sept 2025 – Jan 2026*
+
 - **Windows Settings Checker**  
   *Batch script that checks and displays various system settings and configurations of Windows 10.*  
   `Batch Script` | *April – July 2025*
@@ -86,6 +91,7 @@ Feel free to explore my projects or reach out if you'd like to connect!
 - QA & Network Configuration  
 - Domain Controller & Active Directory Admin  
 - Factory Acceptance Testing
+- Automation Testing
 
 ### Wedding Supplier Association of the Philippines  
 **Mobile & Web Developer (Internship)** | *June – Aug 2022*  
