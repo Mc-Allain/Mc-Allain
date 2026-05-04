@@ -12,6 +12,7 @@ Feel free to explore my projects or reach out if you'd like to connect!
 
 ### 💻 Programming Languages
 - Java
+- Visual Basic.NET
 - C#.NET
 - JavaScript
 - TypeScript
