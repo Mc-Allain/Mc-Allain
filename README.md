@@ -47,7 +47,7 @@ Feel free to explore my projects or reach out if you'd like to connect!
 
 - **Job Seeker Website**  
   *Designed and developed a file management feature for this web app.*  
-  `React`, `Redux-Saga`, `Java` | *Aug 2025*
+  `React`, `Redux-Saga`, `Java`, `PostgreSQL` | *Aug 2025*
 
 - **Windows Settings Checker**  
   *Batch script that checks and displays various system settings and configurations of Windows 10.*  
