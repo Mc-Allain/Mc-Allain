@@ -45,6 +45,10 @@ Feel free to explore my projects or reach out if you'd like to connect!
   *Automated test execution for pre-order steps functionality in an E-Commerce system.*  
   `Python`, `Robot` | *Sept 2025 – Jan 2026*
 
+- **Job Seeker Website**
+  *Designed and developed a file management feature for this web app.*
+  `React`, `Redux-Saga`, `Java` | *Aug 2025*
+
 - **Windows Settings Checker**  
   *Batch script that checks and displays various system settings and configurations of Windows 10.*  
   `Batch Script` | *April – July 2025*
