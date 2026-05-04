@@ -41,12 +41,12 @@ Feel free to explore my projects or reach out if you'd like to connect!
 ## 🚀 Projects
 
 ### 2025
-- **Automation Test**
+- **Automation Test**  
   *Automated test execution for pre-order steps functionality in an E-Commerce system.*  
-  `Python`, `Robot` | *Sept 2025 – Jan 2026*
+  `Python`, `Robot Framework` | *Sept 2025 – Jan 2026*
 
-- **Job Seeker Website**
-  *Designed and developed a file management feature for this web app.*
+- **Job Seeker Website**  
+  *Designed and developed a file management feature for this web app.*  
   `React`, `Redux-Saga`, `Java` | *Aug 2025*
 
 - **Windows Settings Checker**  
