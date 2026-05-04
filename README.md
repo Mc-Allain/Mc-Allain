@@ -42,7 +42,7 @@ Feel free to explore my projects or reach out if you'd like to connect!
 
 ### 2025
 - **Automation Test**
-  *Automated test execution for pre-order steps functionality in an E-Commerce system.*
+  *Automated test execution for pre-order steps functionality in an E-Commerce system.*  
   `Python`, `Robot` | *Sept 2025 – Jan 2026*
 
 - **Windows Settings Checker**  
